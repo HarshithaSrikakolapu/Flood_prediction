@@ -35,7 +35,7 @@ def predict_risk(rainfall, river_level, soil_moisture, elevation):
 # UI
 # -------------------------------
 st.title("🌊 Predictive Flood Early Warning System")
-st.markdown("### Standalone AI Risk Prediction (No Backend)")
+st.markdown("### AI Risk Prediction ")
 
 # Sidebar
 with st.sidebar:
